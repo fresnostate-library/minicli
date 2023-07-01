@@ -10,6 +10,7 @@ Shout out to our top contributors!
 - [tombenevides](https://github.com/tombenevides)
 - [szepeviktor](https://github.com/szepeviktor)
 - [alexkart](https://github.com/alexkart)
+- [tal7aouy](https://github.com/tal7aouy)
 - [NickSdot](https://github.com/NickSdot)
 - [ScullWM](https://github.com/ScullWM)
 - [wandersonwhcr](https://github.com/wandersonwhcr)
@@ -24,4 +25,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Thu, 01 Jun 23 00:39:39 +0000_
+_Last updated: Sat, 01 Jul 23 00:38:44 +0000_
