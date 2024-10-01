@@ -18,6 +18,7 @@ Shout out to our top contributors!
 - [flug](https://github.com/flug)
 - [MauricioFauth](https://github.com/MauricioFauth)
 - [rodrigoaramburu](https://github.com/rodrigoaramburu)
+- [tfrommen](https://github.com/tfrommen)
 - [mrpc](https://github.com/mrpc)
 - [peter279k](https://github.com/peter279k)
 - [theoboldalex](https://github.com/theoboldalex)
@@ -25,4 +26,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Sun, 01 Sep 24 00:40:03 +0000_
+_Last updated: Tue, 01 Oct 24 00:39:45 +0000_
